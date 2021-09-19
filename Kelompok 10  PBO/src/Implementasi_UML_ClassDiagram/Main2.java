@@ -3,6 +3,7 @@ KELOMPOK 10
 Ahmad Al Farizi          2017051060
 Nasywa Nathania Wirawan  2017051051
 Zaki Nugraha Muhammad    09031281924045
+Link Github: https://github.com/nasywanathaania/ProjectAkhir
 */
 package Implementasi_UML_ClassDiagram;
 
