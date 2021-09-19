@@ -8,5 +8,10 @@ package Implementasi_UML_ClassDiagram;
 
 public class Main2 {
     public static void main(String []args) { 
+        Employee[] emp = new Employee [2];
+        SalariedEmployee sEmp = new SalariedEmployee();
+        HourlyEmployee hEmp = new HourlyEmployee();
+        
+        
     }
 }
