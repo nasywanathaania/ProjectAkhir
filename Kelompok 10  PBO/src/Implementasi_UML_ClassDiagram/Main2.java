@@ -11,7 +11,8 @@ public class Main2 {
         Employee[] emp = new Employee [2];
         SalariedEmployee sEmp = new SalariedEmployee();
         HourlyEmployee hEmp = new HourlyEmployee();
-        
+        emp[0] = sEmp; 
+        emp[1] = hEmp;
         
     }
 }
