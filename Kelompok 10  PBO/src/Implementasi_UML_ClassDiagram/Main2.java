@@ -24,6 +24,12 @@ public class Main2 {
         hEmp.setHourlyPayment(10000);
         hEmp.setHoursWorked(300);
         
+        for (Employee i : emp) {
+            System.out.printf("Employee Name \t: %s \n", i.getName());
+            System.out.printf("Employee AFM \t: %s \n", i.getAfm());
+            System.out.printf("Employee Salary : Rp. %d \n\n", i.payment());
+        }
+        
     }
  
 }
