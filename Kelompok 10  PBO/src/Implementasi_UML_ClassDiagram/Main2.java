@@ -15,5 +15,15 @@ public class Main2 {
         emp[0] = sEmp; 
         emp[1] = hEmp;
         
+        sEmp.setName("Nasywa");
+        sEmp.setAfm("2017051051");
+        sEmp.setSalary(10000000);
+        
+        hEmp.setName("Ahmad");
+        hEmp.setAfm("2017051060");
+        hEmp.setHourlyPayment(10000);
+        hEmp.setHoursWorked(300);
+        
     }
+ 
 }
